@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Naver Login Test</title>
+</head>
+<body>
+  <h1>Naver Login Test Page</h1>
+  <a href="https://nid.naver.com/oauth2.0/authorize?response_type=code&client_id=svdt179Q9H14S3TxQibk&redirect_uri=https://openapi.naver.com/blog/writePost.json">
+    <img src="https://static.nid.naver.com/oauth/big_g.PNG" alt="Login with Naver" />
+  </a
